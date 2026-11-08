@@ -109,12 +109,3 @@ Python, Pandas, NumPy, scikit-learn, Joblib, Matplotlib, Seaborn, and Streamlit.
 ## Links and submission evidence
 
 - **Streamlit application:** [Student Success Radar](https://student-dropout-ml-a6uzhgf8aosgntyzlabqec.streamlit.app/)
-- **BITS Virtual Lab screenshot:** capture a genuine screenshot of the assignment executing in the lab and include it in the final submission PDF. No screenshot is included in this repository yet.
-
-## Reproducibility and final checks
-
-- Confirm all five saved classifiers and preprocessors load and produce predictions.
-- Check that `test_data.csv` has 36 feature columns and the `Target` column.
-- Run the app locally and verify CSV upload, model selection, metrics, and confusion matrix.
-- Check that the GitHub repository and Streamlit app links above open correctly.
-- Include the real repository link, deployed app link, genuine BITS Virtual Lab screenshot, and this README in the final PDF.
